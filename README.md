@@ -1,2 +1,2 @@
 # social-adapter
-tutorial perpose
+tutorial purpose
